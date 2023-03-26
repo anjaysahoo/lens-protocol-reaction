@@ -1,4 +1,4 @@
-# Post On Lens Protocol
+# React On Lens Protocol
 
 ### Library Used in this Project
 1. @urql/svelte: `For creating graphql client`
